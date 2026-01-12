@@ -3,3 +3,4 @@
 需要[EXILED 9.7.1+](https://github.com/ExMod-Team/EXILED/releases)  
 正常安装到EXILED的plugins目录  
 配置文件位于 %appdata%\EXILED\Configs\PlayerBadge.txt
+不要在linux使用，这会是个悲剧。
